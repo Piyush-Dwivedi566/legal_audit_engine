@@ -1,0 +1,13 @@
+# Secrets
+.env
+
+# Virtual environment
+venv/
+
+# Generated index and caches
+storage/
+__pycache__/
+*.pyc
+
+# Your legal documents (may be confidential)
+documents/
